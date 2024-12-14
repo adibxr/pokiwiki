@@ -20,7 +20,7 @@ To deploy this project run
 ```bash
   npm run deploy
 
-  immortaladi.github.io/pokewiki
+  immortaladi.github.io/pokiwiki
 ```
 
 
